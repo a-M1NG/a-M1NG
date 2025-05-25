@@ -28,8 +28,8 @@
 
 ### 🌟 **Featured Projects**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-M1NG&repo=PicSearcher&theme=radical&bg_color=7E84F7,EA3680,EE8AF8&title_color=white&text_color=white&icon_color=0077B6&border_color=0077B6)](https://github.com/a-M1NG/PicSearcher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-M1NG&repo=JUSTMusica&theme=radical&bg_color=7E84F7,EA3680,EE8AF8&title_color=white&text_color=white&icon_color=0077B6&border_color=0077B6)](https://github.com/a-M1NG/JUSTMusica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-M1NG&repo=PicSearcher&theme=radical&bg_color=7E84F7,EA3680,EE8AF8&title_color=white&text_color=white&icon_color=0077B6&border_color=0077B6)](https://github.com/a-M1NG/PicSearcher)
 ---
 
 ### 📫 **Let's Connect**
